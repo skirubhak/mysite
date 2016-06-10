@@ -1,2 +1,2 @@
 # mysite
-mysite is a project and inside it app called polls exists
+mysite is a project and inside it app called polls exists.
